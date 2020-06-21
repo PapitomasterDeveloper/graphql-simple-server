@@ -19,10 +19,12 @@
   },
   "homepage": "https://github.com/PapitomasterDeveloper/graphql-simple-server#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "graphql": "^15.1.0",
     "graphsql": "0.0.0",
+    "json-server": "^0.16.1",
     "nodemon": "^2.0.4"
   }
 }
